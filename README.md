@@ -83,6 +83,12 @@ ElectroMagentics-Code/
   * Electromagnetic Fields
   * Vector Calculus
   * Coordinate Systems
+  * Applications: Simulation, plotting, and numerical analysis
+
+
+ 
+   Scilab : 100%
+
 
 ---
 
