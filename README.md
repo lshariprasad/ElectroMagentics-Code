@@ -94,7 +94,7 @@ ElectroMagentics-Code/
 
 ## ▶️ How to Run
 
-1. Install **Scilab** from: [https://www.scilab.org/](https://www.scilab.org/)
+1. Install **Scilab** from: [https://www.scilab.org/](https://www.scilab.org/)  - ( Based Your System and version you can download)
 2. Clone this repository:
 
    ```bash
