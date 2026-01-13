@@ -3,7 +3,6 @@
 A complete **Scilab-based practical repository** for **Electromagnetic Field (EMF)** laboratory experiments, designed for **Electrical & Electronics Engineering (EEE)** students.
 
 This repository contains **experiment-wise `.sci` programs**, ready to run, plot, and analyze core EMF concepts such as **fields, flux density, coordinate transformations, wave propagation, polarization, and radiation patterns**.
-
 ------
 ## 📌 Repository Highlights
 
